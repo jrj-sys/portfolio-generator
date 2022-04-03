@@ -1,6 +1,4 @@
-# Your Project Title
-
-Portfolio Generator
+# Portfolio Generator
 ## Description 
 
 An application utilizing Node.js and inquirer in order to create a portfolio from the command line. 
