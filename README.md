@@ -1,4 +1,5 @@
 # Portfolio Generator
+
 ## Description 
 
 An application utilizing Node.js and inquirer in order to create a portfolio from the command line. 
@@ -7,11 +8,16 @@ An application utilizing Node.js and inquirer in order to create a portfolio fro
 1) Clone the GitHub repository 
 2) Install npm and required dependencies (inquirer)
 4) Run app.js within the terminal
+
 ## Usage 
 
 1) Run node app.js
-2) Respond to CLI prompts as directed
-3) Voila! Enjoy your portfolio! 
+!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.12.05%20AM.png)
+3) Respond to CLI prompts as directed
+!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.14%20AM.png)
+5) Voila! Enjoy your portfolio! 
+!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.54%20AM.png)
+
 ## Credits
 
 Jamel James (author) - github.com/jrj-sys
@@ -22,6 +28,7 @@ Made With:
     * CSS
     * JavaScript
     * Node.js (dependencies: {inquirer})
+    
 ## License
 
 MIT License
