@@ -11,12 +11,12 @@ An application utilizing Node.js and inquirer in order to create a portfolio fro
 
 ## Usage 
 
-1) Run node app.js
-!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.12.05%20AM.png)
-3) Respond to CLI prompts as directed
-!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.14%20AM.png)
-5) Voila! Enjoy your portfolio! 
-!(https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.54%20AM.png)
+1) Run node app.js. 
+![](https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.12.05%20AM.png)
+3) Respond to CLI prompts as directed. 
+![](https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.14%20AM.png)
+5) Voila! Enjoy your portfolio!   
+![](https://github.com/jrj-sys/portfolio-generator/blob/main/assets/images/Screen%20Shot%202022-04-03%20at%2012.17.54%20AM.png)
 
 ## Credits
 
